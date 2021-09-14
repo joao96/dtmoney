@@ -51,7 +51,7 @@ yarn
 **Step 3:**
 
 ```
-yarn dev
+yarn start
 ```
 
 Once the server is up, go to http://localhost:3000/ and you should see something like this:
