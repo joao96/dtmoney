@@ -9,13 +9,13 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joao96/dtmoney?style=flat-square">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joao96/dtmoney?style=flat-square">
-  <img alt="License" src="https://img.shields.io/github/license/joao96/dtmoney?style=flat-square">
+<!--   <img alt="License" src="https://img.shields.io/github/license/joao96/dtmoney?style=flat-square"> -->
 </p>
 
 <p align="center">
   <a href="#checkered_flag-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#page_facing_up-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<!--   <a href="#page_facing_up-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
   <a href="#get-in-touch-monocle_face">Get in touch</a>
 </p>
 
@@ -60,15 +60,15 @@ Once the server is up, go to http://localhost:3000/ and you should see something
   <img src="public/dtmoney-cover.png" alt="Initial page">
 </p>
 
-## :page_facing_up: License
+<!-- ## :page_facing_up: License
 
 <a href="https://github.com/joao96/the-simplest-todo/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/joao96/the-simplest-todo?style=flat-square">
+    <img alt="License" src="https://img.shields.io/github/license/joao96/dtmoney?style=flat-square">
 </a>
 
 <br />
 
-This project is licensed under the MIT.
+This project is licensed under the MIT. -->
 
 ## Get in touch! :monocle_face:
 
