@@ -31,7 +31,7 @@ export function Summary() {
     <Container>
       <div>
         <header>
-          <p>Entradas</p>
+          <p>Income</p>
           <img src={incomeImg} alt="Entradas" />
         </header>
         <strong>
@@ -43,7 +43,7 @@ export function Summary() {
       </div>
       <div>
         <header>
-          <p>Saídas</p>
+          <p>Outcome</p>
           <img src={outcomeImg} alt="Saídas" />
         </header>
         <strong>
@@ -56,7 +56,7 @@ export function Summary() {
       </div>
       <div className="highlight-background">
         <header>
-          <p>Total</p>
+          <p>Balance</p>
           <img src={totalImg} alt="Total" />
         </header>
         <strong>
